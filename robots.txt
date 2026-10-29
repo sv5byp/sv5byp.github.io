@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sv5byp.github.io/sitemap.xml
